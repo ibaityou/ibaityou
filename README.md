@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibaityou
-- 👀 I’m interested in it project, 3d developement, frisbee and skiing
+- 👀 I’m interested in IT project, 3d developement, frisbee and skiing
 - 🌱 I’m currently learning Vulkan
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me, contact me direct on github
